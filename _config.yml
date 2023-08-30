@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Nanjing-China"
-title                    : "Weng's academic website"
+title                    : "Weng's academic homepage"
 title_separator          : "-"
 name                     : &name "Chen-Xun Weng"
 description              : &description "PhD candidate at Nanjing University"
